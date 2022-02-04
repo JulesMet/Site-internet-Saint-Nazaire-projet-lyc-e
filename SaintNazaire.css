@@ -1,0 +1,28 @@
+/*C'est un tableau */
+table{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+
+td{
+    border: 1px solid black;
+}
+
+h1{
+	color: #FF0000
+}
+
+p{
+	color: #FFFFFF
+}
+
+p{
+	background-color: #FF0000
+}
+
+h1{
+	font-size: 50px
+}
+
+p{
+	font-size: 20px
+}
